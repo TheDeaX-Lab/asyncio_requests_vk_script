@@ -1,0 +1,4 @@
+asyncio
+https://github.com/prostomarkeloff/vk.py/archive/master.zip
+vk_api
+pymorphy2
